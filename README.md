@@ -16,5 +16,5 @@ Welcome to my portfolio website! This project showcases my skills and projects u
 No specific setup is required for this project. Simply clone the repository and open the `index.html` file in a web browser to view the portfolio.
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/Abenittz/Portfolio.git
+cd Portfolio
